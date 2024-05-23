@@ -1,0 +1,1 @@
+console.log("c tá me devendo 5 reais");
